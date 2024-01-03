@@ -1,0 +1,23 @@
+{
+  "name": "master-coding-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collectCoverage=false --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user36X/master-coding-interview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/user36X/master-coding-interview/issues"
+  },
+  "homepage": "https://github.com/user36X/master-coding-interview#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
